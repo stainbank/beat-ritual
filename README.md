@@ -1,2 +1,2 @@
-# mixed
-A notepad for preparing DJ mixes
+# Beat Ritual
+A notepad for DJ mixes
